@@ -146,5 +146,5 @@ Market Basket Analysis provides actionable insights for:
 
 ## Additional Resources
 - [Notebook](https://github.com/thant-thiha/market-basket-analysis/blob/main/Market_Basket_Analysis_Retail_Store_Report.ipynb)
-- [Report](https://github.com/thant-thiha/market-basket-analysis/blob/main/Market_Basket_Analysis_Retail_Store_Report.docx)
+- [Report](https://github.com/thant-thiha/market-basket-analysis/blob/main/Market_Basket_Analysis_Retail_Store_Report.pdf)
 
